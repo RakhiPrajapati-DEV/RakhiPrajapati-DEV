@@ -1,3 +1,4 @@
+![logo](https://github.com/RakhiPrajapati-DEV/RakhiPrajapati-DEV/blob/main/Rakhi%20Prajapati%20(1).png) 
 <h1 align="center">Hi 👋, I'm Rakhi Prajapati</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
